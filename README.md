@@ -1,2 +1,1 @@
-# lms
-lms project implementation for VCS
+# Digital Lync LMS
